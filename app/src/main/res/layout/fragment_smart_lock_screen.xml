@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_toolbar_main" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="340dp"
+        android:layout_marginBottom="@dimen/feed_item_margin"
+        android:layout_marginLeft="@dimen/smart_lock_item_padding_left_right"
+        android:layout_marginRight="@dimen/smart_lock_item_padding_left_right"
+        android:layout_marginTop="@dimen/smart_lock_item_padding_top"
+        android:background="@drawable/bg_parent_rounded_corner"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@drawable/smartlock_screen_cover" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/smart_lock_item_inside_padding_2side"
+            android:layout_marginRight="@dimen/smart_lock_item_inside_padding_2side"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/smart_lock"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <android.support.v7.widget.SwitchCompat
+                android:id="@+id/btnSwitch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="right" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/smart_lock_item_inside_padding_2side"
+            android:layout_marginRight="@dimen/smart_lock_item_inside_padding_2side"
+            android:layout_marginTop="5dp"
+            android:text="@string/smart_lock_sum" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/feed_item_margin"
+        android:layout_marginLeft="@dimen/smart_lock_item_padding_left_right"
+        android:layout_marginRight="@dimen/smart_lock_item_padding_left_right"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_tip_monster" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="115dp"
+            android:background="@drawable/ic_tip_textbox">
+
+            <TextView
+                android:id="@+id/footersum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="40dp"
+                android:paddingTop="10dp"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:text="@string/tip_sum_smart_lock"
+                android:textColor="@color/yellow"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/btnViewNow"
+                android:layout_width="100dp"
+                android:layout_height="30dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/footersum"
+                android:layout_marginEnd="23dp"
+                android:layout_marginRight="23dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/buttonshape"
+                android:text="View now"
+                android:textAllCaps="false" />
+
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

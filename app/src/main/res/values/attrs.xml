@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomFontEditText">
+        <attr name="tyleFontEditText" format="string" />
+        <attr name="backgroundEditText" format="reference" />
+        <attr name="typeFaceEditText" format="enum">
+            <enum name="BOLD" value="0" />
+            <enum name="NORMAL" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="CustomFontText">
+        <attr name="TyleFontText" format="string" />
+        <attr name="typeFaceText" format="enum">
+            <enum name="BOLD" value="0" />
+            <enum name="NORMAL" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>

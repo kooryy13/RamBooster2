@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="font_Splash_bold">aguda_bold.ttf</string>
+    <string name="font_Splash_light">aguda_light.ttf</string>
+</resources>

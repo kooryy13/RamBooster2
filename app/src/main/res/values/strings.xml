@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Accept</string>
+    <string name="pls_share"><p>Please share with your friend the Memory Booster.https://play.google.com/store/app/details?id=com.example.kooryy2.cleanmaster</p></string>
+    <string name="decline">Decline</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="RAM">RAM</string>
+    <string name="about_rate">Reviews of applications</string>
+    <string name="about_share">Share with Friends</string>
+    <string name="active">Activate</string>
+    <string name="active_lock_sum">Automatically clean up and speed up the phone after the unlock.</string>
+    <string name="active_lock_tittle">Smart screen lock</string>
+    <string name="android_version">Version</string>
+    <string name="body_update">New version is available on Google Play, now. Update experience and fix issues</string>
+    <string name="btn_splash">Start</string>
+    <string name="cleaned_rs">Cleaned</string>
+    <string name="cpu">CPU</string>
+    <string name="device_info">Device information</string>
+    <string name="disenable_active_lock">You have disabled smart lock</string>
+    <string name="dl_uninstall_data">%s memory!</string>
+    <string name="dl_uninstall_sum">You just have to add</string>
+    <string name="enable_active_lock">"You've enabled smart lock"</string>
+    <string name="feed_sum">If you are not satisfied please leave a message for us. Thanks!</string>
+    <string name="feed_tittle">Feedback</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_mail_subject">Feedback on Android %1$s</string>
+    <string name="feedback_to_mail">developer.help@outlook.com</string>
+    <string name="function_recomment">Recommend functions</string>
+    <string name="header_rs_boosted">Your phone has been optimized</string>
+    <string name="ignore">Skip</string>
+    <string name="memmory">Memory</string>
+    <string name="menu_info">About us</string>
+    <string name="menu_smart_lock">Smart lock</string>
+    <string name="menu_white_list">White list</string>
+    <string name="monitor">Resolution</string>
+    <string name="no_application">No Application found!</string>
+    <string name="no_content">No content</string>
+    <string name="notify_title">Application that slow down your device</string>
+    <string name="pin">Battery</string>
+    <string name="play_now">Play now</string>
+    <string name="policy_sum">If you continue, you agree to the </string>
+    <string name="policy_sum2">Terms of service </string>
+    <string name="rate_app">Reviews 5 stars</string>
+    <string name="rate_sum">We hope to get 5 stars. Thanks!</string>
+    <string name="rating_dialog_2_go_gp_tip">Please rate for us 5 stars!</string>
+    <string name="result_message">Already freed</string>
+    <string name="share_content">Please share with your friends the Memmory Booster.</string>
+    <string name="slide_to_unlock">Slide to unlock</string>
+    <string name="slogan_app">Professional Optimization Tools</string>
+    <string name="smart_lock">Active smart lock</string>
+    <string name="smart_lock_sum">Automatically clean up and speed up the phone after the unlock.</string>
+    <string name="storage">Storage</string>
+    <string name="text_boost">Optimize</string>
+    <string name="text_boosted">Optimized</string>
+    <string name="text_device_ok">Device is OK</string>
+    <string name="text_device_warrning">Optimize now!</string>
+    <string name="text_home_html">&lt;font color=#FFCA08>&lt;big>&lt;b>%s&lt;/b>&lt;/big>&lt;/font> Applications that slow down your device</string>
+    <string name="text_home_what_new">"Hello! 
+What's news today?"</string>
+    <string name="text_momory_used">Memory used: %s</string>
+    <string name="tip_boosting">Clean Apps Running…</string>
+    <string name="tip_sum_smart_lock">Guide to save battery power, accelerate phone, cool down devices</string>
+    <string name="tittle_about">About</string>
+    <string name="tittle_active_lock">Smart lock screen</string>
+    <string name="tittle_add_ignore">Add Application</string>
+    <string name="tittle_discover">Discover</string>
+    <string name="tittle_help">Help</string>
+    <string name="tittle_ignore_list">White list</string>
+    <string name="tittle_policy">Privacy policy</string>
+    <string name="tittle_result">Memmory Booster</string>
+    <string name="update_now">UPDATE</string>
+    <string name="version">Version %s</string>
+    <string name="view_now">View now</string>
+    <string name="app_name">Memory Booster</string>
+    <string name="slogan">Công Cụ Tối Ưu Hóa Chuyên Nghiệp</string>
+    <string name="license">Nếu tiếp tục bạn đồng ý với</string>
+    <string name="tittle_dl_game">Find the Different</string>
+    <string name="pls_try_again_msg">Please Try Again Later</string>
+    <string name="smart_lock_on">You\'ve enable Smart lock</string>
+    <string name="smart_lock_off">You\'ve disable Smart lock</string>
+    <string name="app_name_packet">com.example.kooryy2.cleanmaster</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">342767476120528</string>
+    <string name="placement_id_facebook_ad">342767476120528_342767562787186</string>
+
+
+</resources>

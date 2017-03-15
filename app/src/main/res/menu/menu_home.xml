@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/whiteList"
+        android:icon="@drawable/menu_screen_ic_white_list"
+        android:title="White List"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/smartLock"
+        android:icon="@drawable/menu_screen_ic_smart_lock"
+        android:title="Smart lock"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/aboutUs"
+        android:icon="@drawable/menu_screen_ic_info"
+        android:title="About us"
+        app:showAsAction="never" />
+
+</menu>
